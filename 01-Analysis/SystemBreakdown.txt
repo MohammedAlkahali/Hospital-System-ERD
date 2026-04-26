@@ -1,0 +1,45 @@
+ 
+| Item 		| Classification 	| Reason |
+
+patients	  Entity
+
+doctors		  Entity
+
+departments	  Entity
+
+appointments	  Entity
+
+services	  Entity
+
+medical records	  Entity
+
+billing		  Entity
+
+date of birth	  Attribute
+
+blood group	  Attribute
+
+gender		  Attribute
+
+patient age	  Attribute
+
+date		  Attribute
+
+time		  Attribute
+
+status		  Attribute
+
+type		  Attribute
+
+name		  Attribute
+
+type		  Attribute
+
+price		  Attribute
+
+diagnosis	  Attribute
+
+treatment	  Attribute
+
+payment details	  Attribute
+
